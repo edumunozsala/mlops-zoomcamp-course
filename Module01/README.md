@@ -15,6 +15,7 @@
 ## Homework
 
 Link to Homework [Questions & Answers](homework/homework.md).
+
 Link to Homework [notebook](homework/duration-prediction-yellow-data.ipynb)
 
 ## Notes
@@ -22,7 +23,9 @@ Link to Homework [notebook](homework/duration-prediction-yellow-data.ipynb)
 Notes from previous studetns and cohorts:
 
 [Introduction and enviroment setup](./intro_setup.md)
+
 [MLOps Maturity Model by Microsoft](./MLOps-maturity-levels.md)
+
 [Update ssh config](./update_ssh_config.md)
 
 ## License
