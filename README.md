@@ -42,16 +42,22 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 * MLflow in practice
 * Homework
 
-[More details](02-experiment-tracking)
+[More details](Module02)
 
 
-### [Module 3: Orchestration and ML Pipelines]
+### [Module 3: Orchestration and ML Pipelines](Module03)
 
-* Workflow orchestration
-* Mage
+## Workflow orchestration - Mage
 
-[More details](03-orchestration)
+* 3.0 Introduction: ML pipelines and Mage
+* 3.1 Data preparation: ETL and feature engineering
+* 3.2 Training: sklearn models and XGBoost
+* 3.3 Observability: Monitoring and alerting
+* 3.4 Triggering: Inference and retraining
+* 3.5 Deploying: Running operations in production
+* 3.6 Homework
 
+[More details](Module03)
 
 ### [Module 4: Model Deployment]
 
@@ -61,7 +67,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 * Batch: scoring data offline
 * Homework
 
-[More details](04-deployment)
+[More details]
 
 
 ### [Module 5: Model Monitoring]
@@ -70,7 +76,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 * Monitoring web services with Prometheus, Evidently, and Grafana
 * Monitoring batch jobs with Prefect, MongoDB, and Evidently
 
-[More details](05-monitoring)
+[More details]
 
 
 ### [Module 6: Best Practices]
@@ -82,13 +88,13 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 * Infrastructure as code (Terraform)
 * Homework
 
-[More details](06-best-practices)
+[More details]
 
 ### [Project]
 
 * End-to-end project with all the things above
 
-[More details](07-project/)
+[More details]
 
 ## License
 
