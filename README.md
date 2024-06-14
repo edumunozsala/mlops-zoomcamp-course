@@ -49,17 +49,17 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 
 ## Workflow orchestration - Mage
 
-* 3.0 Introduction: ML pipelines and Mage
-* 3.1 Data preparation: ETL and feature engineering
-* 3.2 Training: sklearn models and XGBoost
-* 3.3 Observability: Monitoring and alerting
-* 3.4 Triggering: Inference and retraining
-* 3.5 Deploying: Running operations in production
-* 3.6 Homework
+* Introduction: ML pipelines and Mage
+* Data preparation: ETL and feature engineering
+* Training: sklearn models and XGBoost
+* Observability: Monitoring and alerting
+* Triggering: Inference and retraining
+* Deploying: Running operations in production
+* Homework
 
 [More details](Module03)
 
-### [Module 4: Model Deployment]
+### [Module 4: Model Deployment](Module04)
 
 * Three ways of model deployment: Online (web and streaming) and offline (batch)
 * Web service: model deployment with Flask
@@ -67,7 +67,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 * Batch: scoring data offline
 * Homework
 
-[More details]
+[More details](Module04)
 
 
 ### [Module 5: Model Monitoring]
