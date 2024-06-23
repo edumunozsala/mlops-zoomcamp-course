@@ -70,13 +70,13 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 [More details](Module04)
 
 
-### [Module 5: Model Monitoring]
+### [Module 5: Model Monitoring](Module05)
 
 * Monitoring ML-based services
 * Monitoring web services with Prometheus, Evidently, and Grafana
 * Monitoring batch jobs with Prefect, MongoDB, and Evidently
 
-[More details]
+[More details](Module05)
 
 
 ### [Module 6: Best Practices]
