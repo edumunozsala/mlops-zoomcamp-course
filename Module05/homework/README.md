@@ -29,7 +29,7 @@ Hint: explore evidently metric `ColumnQuantileMetric` (from `evidently.metrics i
 
 What metric did you choose?
 
-**Answer**: Metric DatasetCorrelationsMetric and ColumnQuantileMetric(column_name='fare_amount', quantile=0.5)
+**Answer**: ColumnQuantileMetric(column_name='fare_amount', quantile=0.5) and Metric DatasetCorrelationsMetric
 
 ## Q3. Monitoring
 
