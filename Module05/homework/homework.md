@@ -1,4 +1,5 @@
 ## Homework
+
 Link to the notebook, code and answers [HERE](homework5.ipynb)
 
 The goal of this homework is to familiarize users with monitoring for ML batch services, using PostgreSQL database to store metrics and Grafana to visualize them.
@@ -29,7 +30,7 @@ Hint: explore evidently metric `ColumnQuantileMetric` (from `evidently.metrics i
 
 What metric did you choose?
 
-**Answer**: Metric DatasetCorrelationsMetric and ColumnQuantileMetric(column_name='fare_amount', quantile=0.5)
+**Answer**: ColumnQuantileMetric(column_name='fare_amount', quantile=0.5) and Metric DatasetCorrelationsMetric
 
 ## Q3. Monitoring
 
