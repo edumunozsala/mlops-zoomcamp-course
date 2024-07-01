@@ -19,7 +19,7 @@ Now we need to create the "main" block from which we'll invoke
 the main function. How does the `if` statement that we use for
 this looks like? 
 
-**Answer**: if __name__ == '__main__':
+**Answer**: `if __name__ == '__main__':`
 
 Hint: after refactoring, check that the code still works. Just run it e.g. for March 2023 and see if it finishes successfully. 
 
@@ -106,7 +106,7 @@ What should be the other file?
 Hint: to be able to test `batch.py`, we need to be able to
 import it. Without this other file, we won't be able to do it.
 
-**Answer**: __init__.py
+**Answer**: `__init__.py`
 
 You need to include a `__init__.py` file in the subfolder `tests` to import the test files. In Python projects, if you create a file called __init__.py in a directory then Python will treat that directory as a package. A package in Python is a collection of modules (individual .py files) that can be imported into other Python files.
 
@@ -240,7 +240,7 @@ In both cases we should adjust commands for localstack. What option do we need t
 * `--endpoint-url`
 * `--version`
 
-**Answer**:`--endpoint-url`
+**Answer**: `--endpoint-url`
 
 Once our docker container is up and running we can check the aws commands.
 
