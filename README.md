@@ -79,7 +79,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 [More details](Module05)
 
 
-### [Module 6: Best Practices]
+### [Module 6: Best Practices](Module06)
 
 * Testing: unit, integration
 * Python: linting and formatting
@@ -88,7 +88,7 @@ Data scientists and ML engineers. Also software engineers and data engineers int
 * Infrastructure as code (Terraform)
 * Homework
 
-[More details]
+[More details](Module06)
 
 ### [Project]
 
